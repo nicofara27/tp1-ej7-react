@@ -7,6 +7,7 @@ function App() {
   return (
     <Container className="App">
       <h1 className='display-2 text-center my-4'>Lista de empleados</h1>
+      <hr></hr>
       <EmpleadoList/>
     </Container>
   );
