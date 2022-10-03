@@ -2,7 +2,6 @@ import { Badge, ListGroup } from "react-bootstrap";
 import EmpleadoAvatar from "./EmpleadoAvatar";
 
 const EmpleadoRow = ({empleado}) => {
-  console.log(empleado)
   return (
     <ListGroup.Item className="d-flex flex-row justify-content-center w-75 mx-auto">
       <EmpleadoAvatar avatar={empleado.pic} className="col-4 col-md-4 col-lg-3"></EmpleadoAvatar>
