@@ -1,6 +1,6 @@
 # Tp1 - Lista de empleados
 
-Ejercicio numero 7 del tp1 de react. Se utilizó [React-Bootstrap](https://react-bootstrap.github.io/)
+Ejercicio numero 7 del tp1 de react. Se utilizó [React-Bootstrap](https://react-bootstrap.github.io/) y [avataaars generator](https://getavataaars.com/).
 
 # Demo
 
